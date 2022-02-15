@@ -1,0 +1,12 @@
+*.log
+*.jar
+*.pyc
+__pycache__
+.pytest_pycache
+*.sw?
+cscope.*
+tags
+TAGS
+GTAGS*
+*~
+cache
