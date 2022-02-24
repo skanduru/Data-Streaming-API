@@ -38,3 +38,7 @@ You should see 9 containers when you run this command:
 ```
 docker ps
 ```
+References:
+Tools: https://www.apache.org/dyn/closer.cgi?path=/kafka/3.1.0/kafka_2.13-3.1.0.tgz
+https://spark.apache.org/downloads.html
+
